@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nithiya Shree U V
 - 👀 I’m interested in Cryptography, Android App Development, NLP Techniques
 - 🌱 I’m currently learning ML and IOT
-- 💞️ I’m looking to collaborate on IOT Projecs
+- 💞️ I’m looking to collaborate on IOT Projects
 - 📫 How to reach me nithiyashreevenkateswaran@gmail.com
 
 <!---
